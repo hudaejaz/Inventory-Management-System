@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.deps.json
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.dll
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\bin\Debug\net8.0\InventoryManagementDTOs.pdb
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.AssemblyInfo.cs
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.sourcelink.json
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.dll
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\refint\InventoryManagementDTOs.dll
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\InventoryManagementDTOs.pdb
+C:\Users\HP\source\repos\InventoryManagementSolution\InventoryManagementDTOs\obj\Debug\net8.0\ref\InventoryManagementDTOs.dll
